@@ -1,0 +1,116 @@
+.container {
+	width: 1020px;
+	height:2400px;
+	margin: 0 auto;
+	background: url(./images/45degreee_fabric_@2X.png);
+}
+
+.content-title {
+	width:1020px;
+	height:100%;
+	margin:0;
+	padding:0;
+	display: inline-block;
+	background-image: url(http://ethanlynnconsulting.com/images/home2.jpg);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-size: 100% auto;
+}
+
+.bkg-cover{
+	width:100%;
+}
+
+.logo {
+	margin: 2em;
+}
+.nav ul {
+	font-size: 19px;
+	margin:0;
+	padding:0;
+}
+nav, .hamburger {
+	background-color: white;
+	opacity: 0.9;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding:5px;
+	float: right;
+	display: inline;
+	color: #212F5C;
+	text-decoration: none;
+	font-size: 1.7em;	
+}
+.nav li a {
+	text-decoration: none;
+	color: #212F5C;
+	display: block;
+	font-size: 1em;
+}
+.nav li{
+	text-decoration: none;
+	color: #212F5C;
+	display: block;
+	list-style: none;
+	font-size: 19px;
+	text-align: left;
+}
+
+
+p, h1, h2, li {
+	color: #454141;
+	font-family: 'Gafata', sans-serif;
+}
+
+p{
+	font-size: 19px;
+	text-align: justify;
+	width: 64%;
+	float:left;
+}
+
+li {
+	font-size: 19px;
+	text-indent: 0.5em;
+	display: list-item;
+	line-height: 1.85em;
+
+}
+h2 {
+	margin: 30px;
+	margin-top: 80px;
+}
+
+h3 {
+	font-size: 24px;
+	margin:20px;
+	padding: 5px;
+	font-family: 'Gafata', sans-serif;
+	}
+
+p{
+	font-size: 35px;
+	text-align: left;
+	width: 64%;
+	
+}
+
+.app-criteria {
+	font-size: 19px;
+	margin: 30px;
+	text-align: justify;
+	width: 75%;
+	float:left;
+	padding: 1em;
+}
+.apply h2{
+	display: inline;
+	margin:15px;
+}
+
+.apply p{
+	width:60%;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 1em;
+}
